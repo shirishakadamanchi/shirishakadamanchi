@@ -1,0 +1,99 @@
+.head{
+    text-align: center;
+}
+#a1{
+margin-left: 150px;
+width: 400px;
+height: 30px;
+border-radius: 10px;
+background-color:azure;
+}
+#a2{
+    margin-left: 250px;
+    font-size: larger;
+    font-weight:900;
+    }
+    #b1{
+        margin-left: 250px;
+        font-size: larger;
+    font-weight:900;
+    }
+    #b2{
+        margin-left: 72px;
+        height: 30px;
+        width:400px;
+        border-radius: 10px;
+        background-color:azure;
+    }
+    #c1{
+        margin-left: 250px;
+        font-size: larger;
+    font-weight:900;   
+    }
+    #c2{
+        margin-left: 144px;
+        height: 30px;
+        width:400px;
+        border-radius: 10px;
+        background-color:azure;  
+    }
+    #d1{
+        margin-left: 250px;
+        font-size: larger;
+    font-weight:900;   
+    }
+    #d2{
+        margin-left: 141px;
+        height: 30px;
+        width:400px;
+        border-radius: 10px;
+        background-color:azure;  
+    }
+    #e1{
+        margin-left: 250px;
+        font-size: larger;
+    font-weight:900;   
+    }
+    #e2{
+        margin-left: 122px;
+        height: 30px;
+        width:400px;
+        border-radius: 10px;
+        background-color:azure;  
+    }
+    #f1{
+        margin-left: 250px;
+        font-size: larger;
+    font-weight:900;   
+    }
+    #f2{
+        margin-left: 93px;
+        height: 30px;
+        width:400px;
+        border-radius: 10px;
+        background-color:azure;  
+    }
+#a3{
+    margin-left:250px ;
+}
+#a4{
+    margin-left:175px ;
+}
+#a5{
+    margin-left:150px ;
+}
+.button{
+    border-radius: 10px;
+    margin-left: 550px;
+    width:200px;
+    height:35px;
+    font-size: large;
+    font-weight: 700;
+    background-color:teal;
+}
+.aa{
+    text-decoration: none; 
+}
+.bb{
+    background-image:url(img1.jpg);
+}
